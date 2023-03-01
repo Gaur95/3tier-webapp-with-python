@@ -1,6 +1,6 @@
 # 3tier-webapp-with-python
 ### backed language :- python , database:- mogodb atlas , frontend web - nginx  
-### changes 
+### changes in index.html 
 change path for backend 
-#### <form method="POST" action ="http://43.205.139.141:3333/login">
+#### form method="POST" action ="http://43.205.139.141:3333/login"
 
